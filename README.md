@@ -12,7 +12,7 @@ An open list of game design project.
 
 
 # List structure:
-### Projects_Descrptions.md - list of project names with short description attached
+### Projects_Descriptions.md - list of project names with short description attached
 
 ### AUTHORS.md - Names of contributors with names of their projects attached.
 
